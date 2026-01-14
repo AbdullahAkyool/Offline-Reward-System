@@ -147,6 +147,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8966764722192598570}
   - component: {fileID: 1240096826706940305}
+  - component: {fileID: 1757584693531397441}
   m_Layer: 5
   m_Name: Earnable Reward UI Item - Base
   m_TagString: Untagged
@@ -201,6 +202,20 @@ MonoBehaviour:
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
+--- !u!114 &1757584693531397441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1142681525547680805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bcc74ab64624f64680a69ae4be6cf8b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TotalRewardUIItem
+  rewardType: 0
+  totalAmountText: {fileID: 6538916888918359901}
 --- !u!1 &2644232690233035573
 GameObject:
   m_ObjectHideFlags: 0

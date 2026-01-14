@@ -28,6 +28,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Earnable Reward UI Item - Hammer Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 1757584693531397441, guid: cdd3605372075824090a7aad0fcd6ec3, type: 3}
+      propertyPath: rewardType
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 7133922447300601535, guid: cdd3605372075824090a7aad0fcd6ec3, type: 3}
       propertyPath: m_Sprite
       value: 
