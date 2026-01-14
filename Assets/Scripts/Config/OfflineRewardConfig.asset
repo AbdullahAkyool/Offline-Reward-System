@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: OfflineRewardConfig
   m_EditorClassIdentifier: Assembly-CSharp::OfflineRewardConfig
   maxOfflineMinutes: 480
-  cycleDurationSeconds: 5
+  cycleDurationSeconds: 10
   rewardDatas:
   - rewardType: 1
     amountPerMinute: 10
