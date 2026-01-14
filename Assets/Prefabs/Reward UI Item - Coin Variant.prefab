@@ -96,6 +96,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4831365585550655437, guid: 14e074966debcc24987331114f4edc0d, type: 3}
+      propertyPath: rewardType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4831365585550655437, guid: 14e074966debcc24987331114f4edc0d, type: 3}
+      propertyPath: earnedCount
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4831365585550655437, guid: 14e074966debcc24987331114f4edc0d, type: 3}
+      propertyPath: progressTime
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 5267203505106637024, guid: 14e074966debcc24987331114f4edc0d, type: 3}
       propertyPath: m_Type
       value: 1

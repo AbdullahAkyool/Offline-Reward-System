@@ -333,6 +333,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4570764938011730927}
   - component: {fileID: 6700392163307146406}
+  - component: {fileID: 4831365585550655437}
   m_Layer: 5
   m_Name: Reward UI Item - Base
   m_TagString: Untagged
@@ -387,6 +388,21 @@ MonoBehaviour:
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
+--- !u!114 &4831365585550655437
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4083830564406454855}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b4285e9c02b6e418889eb525725a71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RewardUIItem
+  rewardType: 0
+  progressBar: {fileID: 7903367073904019009}
+  progressTime: 0
 --- !u!1 &6227699835402931640
 GameObject:
   m_ObjectHideFlags: 0
